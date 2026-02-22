@@ -1,16 +1,14 @@
-## Hi there 👋
+<h3 align="center">👋 Hello, I'm Asma</h3>
+<p align="center">Data Scientist | Analytics & BI</p>
 
-<!--
-**asmabouach/asmabouach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://asma-bouach.netlify.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/asma-bouach">LinkedIn</a> •
+  <a href="mailto:asma.bouach@gmail.com">Email</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Science Engineer specialized in Data Science and Business Intelligence, with a background in design and UX/UI.
+
+I design and implement end-to-end data systems that transform raw data into practical decisions people understand, trust, and use.
